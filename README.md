@@ -71,18 +71,11 @@ This project is licensed under the MIT License.
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
+---
+
 ## 📧 Contact
 For any inquiries, reach out via:
 
 GitHub Issues: Issues Page
 
-Email: your-email@example.com
-
-Copy
-
 ---
-
-**Replacements Needed**  
-- `yourusername` in clone URL and Issues link
-- `your-repo-name` in clone URL and Issues link
-- `your-email@example.com` in contact section
