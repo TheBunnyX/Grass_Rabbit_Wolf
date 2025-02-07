@@ -40,14 +40,18 @@ Run the project using:
 sh
 Copy
 python main.py
+```
 Example usage:
-
+```
 sh
 Copy
 python main.py --option value
 ```
 
 ##🧪 Running Tests
+```
+python python3.py --stage=0 --grow_rate=5 --count_grass=400 --count_rabbit=40 --count_wolve=2 
+```
 
 ## 📂 Project Structure
 ```
