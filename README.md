@@ -34,7 +34,7 @@ Install Dependencies
 pip install -r requirements.txt
 ```
 ## 🚀 Usage
-```
+
 Run the project using:
 ```
 sh
@@ -45,7 +45,7 @@ Example usage:
 sh
 Copy
 python main.py --option value
-
+```
 
 ##🧪 Running Tests
 
